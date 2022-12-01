@@ -1,4 +1,4 @@
-# Swartz 6 
+# Swartz 7 
 
 This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.  
 Clone it on your computer and `git pull` regularly in order to fetch the latest updates made by your coaches.
