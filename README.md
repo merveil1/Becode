@@ -75,14 +75,7 @@ To keep up to date with the upcoming events, workshops and hackathons remember t
 
 ## 🌴 Vacation and holidays
 
--**Semaine 1**: 25 juillet - 29 juillet
 
--**Semaine 2** : 5 septembre - 9 septembre
-
-**Bonus** 
-- Congé le vendredi 27 mai (pont entre le 26 (férié) et le weekend)
-- Congé le vendredi 22 juillet (pont entre le 21 (férié) et le weekend + semaine de vacances)
-- Congé le lundi 31 octobre (pont entre le weekend et le mardi 1 novembre (férié) 
 
 
 ## 👩‍🎓 Briefings
