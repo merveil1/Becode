@@ -1,4 +1,4 @@
-# Swartz 7 
+# Swartz 7
 
 This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.  
 Clone it on your computer and `git pull` regularly in order to fetch the latest updates made by your coaches.
@@ -6,7 +6,6 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 ## ➡️ What's coming
 
 ![](./images/misc/curiculum.png)
-
 
 ### 🌱 The field
 
@@ -37,18 +36,17 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 Read the following documents:
 
-Read the **Pedagogical Contract** in 
-   - [English](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
-   - [French](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
-   - [Dutch](https://github.com/becodeorg/BeCode/blob/master/pedagogischcontract.md)
+Read the **Pedagogical Contract** in
 
+- [English](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
+- [French](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
+- [Dutch](https://github.com/becodeorg/BeCode/blob/master/pedagogischcontract.md)
 
 Your contacts at BeCode:
 
 1. Your lead coach: Mike - mickael@becode.org
-2. Secondary coach: Dante - dante.solis@becode.org 
-3. Your professional insertion referent: Sophia - sophia@becode.org 
-
+2. Secondary coach: Dante - dante.solis@becode.org
+3. Your professional insertion referent: Sophia - sophia@becode.org && Marina marina.nozhenko@becode.org
 
 ## 🕑 Respect for planning: being late & absence
 
@@ -75,6 +73,7 @@ To keep up to date with the upcoming events, workshops and hackathons remember t
 
 ## 🌴 Vacation and holidays
 
+
 - 27/02/23 - 03/03/23
 - 02/04/23 - 07/04/23
 
@@ -85,7 +84,7 @@ Here is a chronological list of projects, in the order they were tackled by your
 
 1. [The Field](./1.The-Field)
 2. [The Hill](./2.The-Hill)
-3. [The Mountain](./3.The-Mountain) 
-4. [Summer-Pastures](./4.Summer-Pastures) 
+3. [The Mountain](./3.The-Mountain)
+4. [Summer-Pastures](./4.Summer-Pastures)
 
 And remember, we NEVER give up! ;)
