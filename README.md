@@ -73,6 +73,11 @@ To keep up to date with the upcoming events, workshops and hackathons remember t
 
 ## 🌴 Vacation and holidays
 
+
+- 27/02/23 - 03/03/23
+- 02/04/23 - 07/04/23
+
+
 ## 👩‍🎓 Briefings
 
 Here is a chronological list of projects, in the order they were tackled by your startup.
